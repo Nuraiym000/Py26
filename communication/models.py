@@ -39,3 +39,7 @@ class Memos(models.Model):
 		ordering = ('-created_at','-updated_at',)
 		verbose_name = _('Memo')
 		verbose_name_plural = _('Memos')
+
+
+class Hello:
+	print('hello')
