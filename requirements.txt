@@ -1,0 +1,9 @@
+Django
+django-makemessages-xgettext
+django-tinymce
+django-widget-tweaks
+Pillow
+pkg-resources==0.0.0
+pytz
+sqlparse
+psycopg2-binary
